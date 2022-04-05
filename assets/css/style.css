@@ -1,0 +1,218 @@
+* {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+div {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+nav {
+  font-family: "Metropolis", sans-serif ;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+/* header */
+.mob-button{
+  border-color: #722ED1 !important;
+  color: #722ED1;
+  justify-content: center;
+  background-color: white;
+  border-radius: 15px;
+}
+a.nav-link , a.dropdown-item {
+	color: black !important;
+}
+a.nav-link:hover , a.active {
+	color: #722ED1 !important;
+}
+header.top {
+	padding: 8px 0px 0px 0px;
+  margin-top: 0px;
+}
+div.list{
+  justify-content: end;
+  padding-right: 38px;
+}
+li.nav-item{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  font-weight: 2px;
+  font-family:"Metropolis-Medium", sans-serif !important;
+}
+li.list-2{
+  position: relative;
+  left: 5px;
+}
+li.list-3{
+  position: relative;
+  left: 8px;
+}
+.list-4{
+  position: relative;
+  left: 15px;
+}
+button.get-started{
+  margin-right: 90px;
+  height: 32px;
+  width: 138px;
+  border-radius: 25px;
+  border-color: #722ED1;
+  color: #722ED1;
+  font-size: 13px;
+  align-items: center;
+  
+  
+}
+button.get-started:hover{
+  background-color: #722ED1;
+  border-color: #722ED1;
+}
+img.logo-image{
+  position: relative;
+  top: 8px;
+  left: 58px;
+
+}
+
+/* slider */
+
+
+.slider{
+  margin-top: 40px;
+ padding-top: 50px;
+ height: 690px;
+ 
+ background-image: linear-gradient(white, #E6F7FF);
+
+ clip-path: polygon(0 0, 100% 0%, 100% 78%, 0% 100%);
+}
+.slider-left{
+  padding-top: 40px;
+  padding-left: 50px;
+}
+h1.hero-text{
+  padding-top: 25px;
+  padding-left: 8px;
+  font-size: 48px;
+  line-height: normal;
+  color: #160637;
+
+  font-weight: bolder;
+}
+p.hero-subtext{
+  color: #8989A2;
+  padding-top: 3px;
+  padding-left: 8px;
+}
+button.left-button{
+  background-color: #722ED1;
+  border-radius: 25px;
+  color: white;
+  height: 48px;
+  width: 168px;
+  font-size: 14px;
+
+}
+div.right-button{
+  padding-top: 34px;
+  padding-left: 61px;
+  font-family: "Pier Sans", sans-serif !important;
+}
+button.right-button{
+  background-color: #FFFFFF;
+  border-radius: 25px;
+  height: 48px;
+  width: 168px;
+  font-size: 14px;
+
+}
+div.left-button{
+  padding-top: 34px;
+  padding-left: 9px;
+  font-family: "Pier Sans", sans-serif !important;
+}
+
+p.label-text{
+  position: relative;
+  top: 7px;
+  left: 26px;
+}
+img.label-image{
+  height: 16px;
+  width: 16px;
+}
+.label {
+  position: relative;
+  top: 23px;
+  left: 0px;
+  height: 40px;
+  width: 256px;
+  border-radius: 25px;
+  /* padding-top: 29px;
+
+  padding-left: 98px; */
+  color: #722ED1;
+  background-color: #F9F0FF;
+}
+.label-link{
+  color: #722ED1;
+  text-decoration: underline;
+}
+
+
+.hero-image{
+  position: relative;
+  top: 5px;
+  right: 32px;
+}
+
+
+/* why quibly section */
+section.Why-Quibly-section{
+  padding-top: 100px;
+}
+p.label-2{
+  color: #722ED1;
+  background-color: #F9F0FF;
+  height: 40px;
+  width: 144px;
+  border-radius: 25px;
+  text-align: center;
+  font-size: 16px;
+  padding-top: 5px;
+  padding-right: 4px;
+  
+}
+div.label-2{
+  padding-top: 2px;
+  padding-right: 33px;
+  
+}
+.eyeball{
+  position: relative;
+  right: 5px;
+  top: 4px;
+  font-size: x-large;
+}
+.label-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
